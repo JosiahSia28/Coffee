@@ -1,0 +1,24 @@
+body {
+	background-color: #e4bc84;
+}
+body {
+	margin-top: 25px;
+}
+div {
+	margin: auto;
+	width: 50%;
+	padding: 10px;
+	text-align: center;
+	color: #37251b;
+	font-family: "Dancing Script", cursive;
+	font-family: "Libre Baskerville", serif;
+	display: block;
+}
+
+img {
+	border: #ad6d2f solid 10px;
+	border-radius: 5px;
+	display: block;
+	width: 50%;
+	margin: auto;
+}
